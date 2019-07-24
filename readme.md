@@ -12,7 +12,7 @@
 
 ![端口转发1](https://github.com/llq20133100095/Remote-Connection-Server-in-Pycharm/blob/master/picture/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%911.png)
 
-![端口转发2](https://github.com/llq20133100095/Remote-Connection-Server-in-Pycharm/blob/master/picture/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%911.png)
+![端口转发2](https://github.com/llq20133100095/Remote-Connection-Server-in-Pycharm/blob/master/picture/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%912.png)
 - 其中“名称”自主命名
 - 本地ip地址可以随便填写
 - 本地端口最后填1024以上
